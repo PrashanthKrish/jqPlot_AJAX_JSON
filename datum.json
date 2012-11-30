@@ -1,0 +1,15 @@
+{
+	"greenLiner1": [75, 75, 75, 75, 75, 75, 75, 75, 75, 75],
+	"greenLiner2": [],
+	"dataValues": [90, 5, 64, 12, 87, 42, 85, 95, 30, 62],
+	"lablValues": ["Component Name (Month-Year)", "Component Name (Month-Year)", "Component Name (Month-Year)", "Component Name (Month-Year)", "Component Name (Month-Year)", "Component Name (Month-Year)", "Component Name (Month-Year)", "Component Name (Month-Year)", "Component Name (Month-Year)", "Component Name (Month-Year)"],
+	"thres1Legend": "Max Threshold",
+	"thres1LegendShow": true,
+	"thres2Legend": "Min Threshold",
+	"thres2LegendShow": false,
+	"plotLegend": "Plot",
+	"plotLegendShow": true,
+	"xlabl": "Release Name",
+	"ylabl": "Percentage (%)",
+	"chartName": "Chart Name"
+}
